@@ -1,0 +1,60 @@
+Codigo: 1
+Nombres: Cristian Oliver
+Apellidos: Baten Itzep
+Carrera: Ingenieria en sistemas
+Departamento: Jutiapa
+Municipio: El Progreso
+Aldea: No
+Telefono Personal: 30484859
+Telefono Casa: 25364852
+Telefono Emergencia: 24589635
+Fecha de Nacimiento: 30-08-2005
+Edad: 19
+Anio de Ingreso: 2023
+Correo Electronico: cbateni1@gmail.edu.gt
+------------------------
+Codigo: 1
+Nombres: cristian
+Apellidos: baten
+Carrera: Ingenieria en sistemas
+Departamento: Jutiapa
+Municipio: El Progreso
+Aldea: No
+Telefono Personal: 20482568
+Telefono Casa: 25352145
+Telefono Emergencia: 35682565
+Fecha de Nacimiento: 30-08-2005
+Edad: 19
+Anio de Ingreso: 2023
+Correo Electronico: cbateni1@gmail.edu.gt
+------------------------
+Codigo: 1
+Nombres: cristian
+Apellidos: baten
+Carrera: Ingenieria en sistemas
+Departamento: Jutiapa
+Municipio: El Progreso
+Aldea: No
+Telefono Personal: 20582458
+Telefono Casa: 35682548
+Telefono Emergencia: 25682535
+Fecha de Nacimiento: 30-08-2005
+Edad: 19
+Anio de Ingreso: 2023
+Correo Electronico: cbateni1@gmail.edu.gt
+------------------------
+Codigo: 1
+Nombres: Cristian
+Apellidos: baten
+Carrera: Ingenieria en sistemas
+Departamento: Jutiapa
+Municipio: El Progreso
+Aldea: No
+Telefono Personal: 25358254
+Telefono Casa: 26531478
+Telefono Emergencia: 25698352
+Fecha de Nacimiento: 30-08-2005
+Edad: 19
+Anio de Ingreso: 2024
+Correo Electronico: cbateni1@gmail.edu.gt
+------------------------
